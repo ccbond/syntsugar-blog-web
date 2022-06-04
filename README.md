@@ -1,3 +1,7 @@
+![hello,syntsugar](https://img.shields.io/badge/Hello-SyntSugar-green?style=flat-square&logo=Instacart)
+![license](https://img.shields.io/github/license/HgAmiui9/syntsugar-blog-web?style=flat-square&logo=Instacart)
+
+
 # SyntSugar Blog
 This project is the web of SyntSugar Blog.
 
