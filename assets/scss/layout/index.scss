@@ -1,0 +1,25 @@
+.header-common {
+  display: flex;
+  justify-content: space-between;
+//   width: 100%;
+//   height: auto;
+//   margin: auto;
+  padding: 10px;
+  .logo {
+    width: 162xp;
+    height: auto;
+  }
+  .avator {
+    box-shadow: rgb(235 235 235) 0px 0px 0px 0px;
+    float: left;
+    position: relative;
+    border-radius: 50%;
+    margin-top: 10xp;
+    width: 50xp;
+    height: 50xp;
+  }
+  .el-menu{
+    padding: 10px;
+    justify-content: right;
+  }
+}
