@@ -1,7 +1,7 @@
 ![hello,syntsugar](https://img.shields.io/badge/Hello-SyntSugar-green?style=flat-square&logo=Instacart)
-![license](https://img.shields.io/github/license/HgAmiui9/syntsugar-blog-web?style=flat-square&logo=Instacart)
-
-
+![license](https://img.shields.io/github/license/HgAmiui9/syntsugar-blog-web?style=flat-square&logo=Monster)
+![npm package](https://img.shields.io/badge/node-v14.16.0-green?style=flat-square&logo=Node.js)
+![NuxtJS](https://img.shields.io/badge/NuxtJS-3-brightgreen?style=flat-square&logo=Nuxt.js)
 # SyntSugar Blog
 This project is the web of SyntSugar Blog.
 
